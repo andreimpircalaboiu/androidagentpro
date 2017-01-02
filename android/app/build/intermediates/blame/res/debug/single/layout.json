@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_test.xml",
+        "source": "D:\\Repositories\\androidagentpro\\android\\app\\src\\main\\res\\layout\\activity_main_test.xml"
+    },
+    {
+        "merged": "D:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_layout.xml",
+        "source": "D:\\Repositories\\androidagentpro\\android\\app\\src\\main\\res\\layout\\product_layout.xml"
+    }
+]

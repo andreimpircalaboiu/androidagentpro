@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 12
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "chat.client.gui"
+        minSdkVersion 10
+        targetSdkVersion 10
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+    }
+}
+
+dependencies {
+    compile 'com.fasterxml.jackson.core:jackson-core:2.8.5'
+    compile 'com.fasterxml.jackson.core:jackson-annotations:2.8.5'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.8.5'
+}
