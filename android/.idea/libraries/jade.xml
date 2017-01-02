@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="chatOntology">
+  <library name="jade">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/chatOntology.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/libs/jade.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

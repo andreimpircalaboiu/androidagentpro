@@ -111,7 +111,7 @@
     <orderEntry type="library" exported="" name="jackson-core-2.8.5" level="project" />
     <orderEntry type="library" exported="" name="JadeAndroid" level="project" />
     <orderEntry type="library" exported="" name="jackson-databind-2.8.5" level="project" />
-    <orderEntry type="library" exported="" name="chatOntology" level="project" />
+    <orderEntry type="library" exported="" name="jade" level="project" />
     <orderEntry type="library" exported="" name="jackson-annotations-2.8.5" level="project" />
     <orderEntry type="library" exported="" name="android-android-12" level="project" />
   </component>

@@ -15,16 +15,12 @@ import android.os.IBinder;
 import android.os.Message;
 import android.view.Menu;
 import android.view.MenuInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ListView;
-import android.widget.TextView;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import java.io.Console;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.logging.Level;
@@ -38,7 +34,6 @@ import jade.android.MicroRuntimeService;
 import jade.android.MicroRuntimeServiceBinder;
 import jade.android.RuntimeCallback;
 import jade.core.MicroRuntime;
-import jade.core.NotFoundException;
 import jade.core.Profile;
 import jade.util.Logger;
 import jade.util.leap.Properties;
