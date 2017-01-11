@@ -1,21 +1,21 @@
 #Internal package file, do not edit.
-#Mon Jan 02 19:04:07 EET 2017
-2.base=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-5.file=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main_menu.xml
+#Wed Jan 11 14:37:43 EET 2017
+2.base=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\product_layout.xml
 5.set=ANDROID_RESOURCE
-3.base=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.base=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 2.set=ANDROID_RESOURCE
-4.base=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.base=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 count=6
-0.file=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
-5.base=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.file=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
 4.set=ANDROID_RESOURCE
-1.file=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 1.set=ANDROID_RESOURCE
-2.file=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
-0.base=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-3.file=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\product_layout.xml
+2.file=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main_menu.xml
 3.set=ANDROID_RESOURCE
-1.base=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
-4.file=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main_test.xml
+1.base=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main_test.xml
 0.set=ANDROID_RESOURCE

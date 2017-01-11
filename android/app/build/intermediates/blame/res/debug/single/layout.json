@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_test.xml",
-        "source": "D:\\Repositories\\androidagentpro\\android\\app\\src\\main\\res\\layout\\activity_main_test.xml"
+        "merged": "C:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_layout.xml",
+        "source": "C:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\src\\main\\res\\layout\\product_layout.xml"
     },
     {
-        "merged": "D:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_layout.xml",
-        "source": "D:\\Repositories\\androidagentpro\\android\\app\\src\\main\\res\\layout\\product_layout.xml"
+        "merged": "C:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_test.xml",
+        "source": "C:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\src\\main\\res\\layout\\activity_main_test.xml"
     }
 ]

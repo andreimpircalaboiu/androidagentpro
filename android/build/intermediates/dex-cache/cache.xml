@@ -3,66 +3,66 @@
 
     <item
         is-multidex="true"
-        jar="D:\Repositories\androidagentpro\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="835a5eae01df221626938ca2efed9d97cf5d7642">
-        <dex dex="D:\Repositories\androidagentpro\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aceb662422e2c57fac73c7ac1e15890999b509a5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\andrei.pircalaboiu\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.8.5\9d82ff47bc2c2d3b5b6a6618fe636782bbcd5b07\jackson-annotations-2.8.5.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9d82ff47bc2c2d3b5b6a6618fe636782bbcd5b07">
-        <dex dex="D:\Repositories\androidagentpro\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.8.5_479580c602b981d8ee20d3abdf437b740d3c5099\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\andrei.pircalaboiu\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.8.5\b3035f37e674c04dafe36a660c3815cc59f764e2\jackson-databind-2.8.5.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b3035f37e674c04dafe36a660c3815cc59f764e2">
-        <dex dex="D:\Repositories\androidagentpro\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.8.5_a6f9bad296ae814b88a383ced720bcc3337713f0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Repositories\androidagentpro\android\app\libs\chatOntology.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2ef29b68719c7ad620695570fe8ab3ebd21b78c7">
-        <dex dex="D:\Repositories\androidagentpro\android\app\build\intermediates\transforms\dex\debug\folders\1000\2\chatOntology_3e6c7d2a62d5194bcac06e2246949bef3ddbb227\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Repositories\androidagentpro\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4f67b93a7213093de72c82c7b6c5048e13ada676">
-        <dex dex="D:\Repositories\androidagentpro\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5c50b69d64efb8c40541691bc45cd5ce634dc212\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Repositories\androidagentpro\android\app\libs\JadeAndroid.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9d4dab97ed63dab96edd7d5e2305cba2208b4db8">
-        <dex dex="D:\Repositories\androidagentpro\android\app\build\intermediates\transforms\dex\debug\folders\1000\2\JadeAndroid_63a03a2f4a26450892bf647c7542b22fececd7fd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\andrei.pircalaboiu\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.8.5\60d059f5d2930ccd1ef03535b713fd9f933d1ba7\jackson-core-2.8.5.jar"
+        jar="C:\Users\Radu2T\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.8.5\60d059f5d2930ccd1ef03535b713fd9f933d1ba7\jackson-core-2.8.5.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="60d059f5d2930ccd1ef03535b713fd9f933d1ba7">
-        <dex dex="D:\Repositories\androidagentpro\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.8.5_52d62f5cabab8a3154fc228f75748320e47e1506\classes.dex" />
+        <dex dex="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.8.5_72372e4ff67a5670f846eeeb4e3eef4aebc3b3b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\libs\JadeAndroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d4dab97ed63dab96edd7d5e2305cba2208b4db8">
+        <dex dex="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\intermediates\transforms\dex\debug\folders\1000\2\JadeAndroid_f2122f2666058c87ab5f27a09e0b6d7703068ef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\libs\jade.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac0aa2f318411a80034cf090891518af7a04e3c6">
+        <dex dex="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\intermediates\transforms\dex\debug\folders\1000\2\jade_ddd817cce928b7f96567fba9c2def604b665515f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu2T\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.8.5\b3035f37e674c04dafe36a660c3815cc59f764e2\jackson-databind-2.8.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3035f37e674c04dafe36a660c3815cc59f764e2">
+        <dex dex="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.8.5_dd32158a780923a812a2efea97e23a60a154517e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27b40bc59dd3c2f152e90a59343988d2d59f5749">
+        <dex dex="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_61273bf570d87234755b84d89af6b42f108724dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu2T\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.8.5\9d82ff47bc2c2d3b5b6a6618fe636782bbcd5b07\jackson-annotations-2.8.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d82ff47bc2c2d3b5b6a6618fe636782bbcd5b07">
+        <dex dex="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.8.5_c287a6a49bd31072caaf884a1e18ef830e3c482a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb5f20c1e930881aa7733bea3ddb7d29522a97ab">
+        <dex dex="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e60f1a9951e966d164fbe335260b90795a9bdaf8\classes.dex" />
     </item>
 
 </items>

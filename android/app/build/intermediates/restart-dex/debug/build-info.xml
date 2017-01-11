@@ -1,43 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="23"
-    density="xxhdpi"
+    api-level="25"
+    density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="8442876121674"
-    token="56885051073785175"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="22068070797561"
+    token="-8213343582898352717"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="3780" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1026" />
     <task
         name="verifier"
-        duration="0" />
+        duration="287" />
+
+    <artifact
+        location="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="6300911399460"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="22068070797561"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\Repositories\androidagentpro\android\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Radu2T\Documents\androidagentpro_2\android\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="7992326832687"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Repositories\androidagentpro\android\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="8442876121674"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

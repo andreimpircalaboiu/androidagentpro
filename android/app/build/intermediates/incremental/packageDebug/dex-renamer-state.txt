@@ -1,7 +1,7 @@
-#Mon Jan 02 19:04:12 EET 2017
-base.0=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aceb662422e2c57fac73c7ac1e15890999b509a5
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5c50b69d64efb8c40541691bc45cd5ce634dc212\\classes.dex
-base.1=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5c50b69d64efb8c40541691bc45cd5ce634dc212
-file.0=D\:\\Repositories\\androidagentpro\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_aceb662422e2c57fac73c7ac1e15890999b509a5\\classes.dex
+#Wed Jan 11 14:38:55 EET 2017
+base.0=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_61273bf570d87234755b84d89af6b42f108724dc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e60f1a9951e966d164fbe335260b90795a9bdaf8\\classes.dex
+base.1=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e60f1a9951e966d164fbe335260b90795a9bdaf8
+file.0=C\:\\Users\\Radu2T\\Documents\\androidagentpro_2\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_61273bf570d87234755b84d89af6b42f108724dc\\classes.dex

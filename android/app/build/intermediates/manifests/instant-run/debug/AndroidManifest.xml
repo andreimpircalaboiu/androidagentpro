@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="chat.client.gui"
+    package="productViewer.client.gui"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -15,14 +15,14 @@
     <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        name="chat.client.gui.ProductViewerApplication"
+        name="productViewer.client.gui.ProductViewerApplication"
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:icon="@drawable/icon"
         android:label="@string/app_name" >
         <service android:name="jade.android.MicroRuntimeService" />
 
         <activity
-            android:name="chat.client.gui.MainTestActivity"
+            android:name="productViewer.client.gui.MainTestActivity"
             android:label="@string/app_title_main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

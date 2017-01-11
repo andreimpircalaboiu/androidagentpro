@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.0"
 
     defaultConfig {
-        applicationId "chat.client.gui"
+        applicationId "productViewer.client.gui"
         minSdkVersion 10
         targetSdkVersion 10
     }
