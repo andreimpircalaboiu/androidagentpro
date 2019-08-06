@@ -13,9 +13,6 @@ import jade.domain.FIPANames;
 import jade.lang.acl.ACLMessage;
 import jade.util.Logger;
 
-/**
- * Created by andrei.pircalaboiu on 14.12.2016.
- */
 
 public class MobileAgent extends Agent implements IMobileAgent
 {
